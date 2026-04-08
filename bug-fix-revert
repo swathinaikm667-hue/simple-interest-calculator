@@ -1,0 +1,22 @@
+curl https://api.github.com/repos/swathinaikm667-hue/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "url": "https://api.github.com/repos/swathinaikm667-hue/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "id": 1,
+    "state": "closed",
+    "title": "Fix typo",
+    "user": {
+      "login": "swathinaikm667-hue"
+    },
+    "head": {
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "swathinaikm667-hue/mcino-Introduction-to-Git-and-GitHub"
+      }
+    },
+    "base": {
+      "ref": "main"
+    }
+  }
+]
